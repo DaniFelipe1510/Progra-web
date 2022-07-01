@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 26 jun. 2022, 20:09:33
+    Author     : Diana Jiménez
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nuosu+SIL&family=Tai+Heritage+Pro:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    font-family: 'Nuosu SIL', serif;
+}
+
+body{   
+    background-image: url(../images/fondo3.jpg);   
+    height:100vh;
+    width:100%;
+    background-position:center;
+    background-size: cover;
+    padding-left: 10%;
+    padding-right: 35%;
+    box-sizing: border-box;
+    position:relative;
+}
